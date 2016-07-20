@@ -1,0 +1,23 @@
+.cuadro {
+	width: 40px;
+    height: 40px;
+    background-color: pink;
+    margin: 5px;
+    
+}
+
+.floating {
+	float: center;
+}
+
+
+.clearfix {
+  overflow: auto;
+zoom: 1;
+}
+
+.cuadro2 {
+	width: 300px;
+    height: 200px;
+    background-color: gray;
+}
